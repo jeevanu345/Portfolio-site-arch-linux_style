@@ -111,6 +111,17 @@ const apps = [
         desktop_shortcut: true,
         screen: displaySequoia,
     },
+    {
+        id: "portfolio-site",
+        title: "Open my personal portfolio site",
+        icon: '/themes/Yaru/apps/chrome.png',
+        disabled: false,
+        favourite: false,
+        desktop_shortcut: true,
+        isExternalApp: true,
+        url: "https://portfolio-site-ashy-nu.vercel.app/",
+        screen: () => {},
+    },
 ]
 
 export default apps;

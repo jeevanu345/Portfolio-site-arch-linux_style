@@ -174,7 +174,7 @@ Act as Jeevan's representative. Use this info to answer queries accurately. If a
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
-          'Authorization': 'Bearer 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'
+          'Authorization': `Bearer ${import.meta.env.VITE_NVIDIA_API_KEY}`
         },
         body: JSON.stringify({
           model: 'meta/llama-3.1-70b-instruct',
