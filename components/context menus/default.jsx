@@ -3,22 +3,22 @@ import React from 'react'
 function DefaultMenu(props) {
     return (
         <div id="default-menu" className={(props.active ? " block " : " hidden ") + " cursor-default w-52 context-menu-bg border text-left border-gray-900 rounded text-white py-4 absolute z-50 text-sm"}>
-            <a rel="noreferrer noopener" href="https://github.com/jeevanu345/jeevanu345.github.io" target="_blank" className="w-full block cursor-default py-0.5 hover:bg-ub-warm-grey hover:bg-opacity-20 mb-1.5">
+            <div onClick={() => window.open("https://github.com/jeevanu345/Portfolio-site-arch-linux_style", "_blank")} className="w-full block cursor-default py-0.5 hover:bg-ub-warm-grey hover:bg-opacity-20 mb-1.5">
                 <span className="ml-5">🌟</span> <span className="ml-2">Star this Project</span>
-            </a>
-            <a rel="noreferrer noopener" href="https://github.com/jeevanu345/jeevanu345.github.io/issues" target="_blank" className="w-full block cursor-default py-0.5 hover:bg-ub-warm-grey hover:bg-opacity-20 mb-1.5">
+            </div>
+            <div onClick={() => window.open("https://github.com/jeevanu345/Portfolio-site-arch-linux_style/issues", "_blank")} className="w-full block cursor-default py-0.5 hover:bg-ub-warm-grey hover:bg-opacity-20 mb-1.5">
                 <span className="ml-5">❗</span> <span className="ml-2">Report bugs</span>
-            </a>
+            </div>
             <Devider />
-            <a rel="noreferrer noopener" href="https://www.linkedin.com/in/Jeevan.U.Gowda/" target="_blank" className="w-full block cursor-default py-0.5 hover:bg-ub-warm-grey hover:bg-opacity-20 mb-1.5">
+            <div onClick={() => window.open("https://www.linkedin.com/in/jeevanu345/", "_blank")} className="w-full block cursor-default py-0.5 hover:bg-ub-warm-grey hover:bg-opacity-20 mb-1.5">
                 <span className="ml-5">🙋‍♂️</span> <span className="ml-2">Follow on <strong>Linkedin</strong></span>
-            </a>
-            <a rel="noreferrer noopener" href="https://github.com/jeevanu345" target="_blank" className="w-full block cursor-default py-0.5 hover:bg-ub-warm-grey hover:bg-opacity-20 mb-1.5">
+            </div>
+            <div onClick={() => window.open("https://github.com/jeevanu345", "_blank")} className="w-full block cursor-default py-0.5 hover:bg-ub-warm-grey hover:bg-opacity-20 mb-1.5">
                 <span className="ml-5">🤝</span> <span className="ml-2">Follow on <strong>Github</strong></span>
-            </a>
-            <a rel="noreferrer noopener" href="mailto:jeevanu345@gmail.com" target="_blank" className="w-full block cursor-default py-0.5 hover:bg-ub-warm-grey hover:bg-opacity-20 mb-1.5">
+            </div>
+            <div onClick={() => window.location.href = "mailto:jeevanu345@gmail.com"} className="w-full block cursor-default py-0.5 hover:bg-ub-warm-grey hover:bg-opacity-20 mb-1.5">
                 <span className="ml-5">📥</span> <span className="ml-2">Contact Me</span>
-            </a>
+            </div>
 
             <Devider />
             <div onClick={() => { localStorage.clear(); window.location.reload() }} className="w-full block cursor-default py-0.5 hover:bg-ub-warm-grey hover:bg-opacity-20 mb-1.5">
