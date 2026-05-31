@@ -361,6 +361,6 @@ function Projects() {
 }
 function Resume() {
     return (
-        <iframe className="h-full w-full" src="/files/Jeevan.U.Gowda-Patel-Resume.pdf" title="Jeevan.U.Gowda resume" frameBorder="0"></iframe>
+        <iframe className="h-full w-full" src="/files/jeevan-u-gowda.pdf" title="Jeevan.U.Gowda resume" frameBorder="0"></iframe>
     )
 }
