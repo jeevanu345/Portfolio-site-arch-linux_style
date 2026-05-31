@@ -157,7 +157,7 @@ Information about Jeevan:
 - Research Papers: TapCart: NFC-Based Payment Interface (Apr 2025)
 - Soft Skills: Communication, Critical Thinking, Analytical Problem Solving. Fluent in English, Hindi, and Native in Kannada.
 - Extracurriculars: Vocalist, Guitarist, Football
-- Contact: Email jeevanu345@gmail.com, Phone +91 6362724307, GitHub/LinkedIn: jeevanu345.
+- Contact: Email jeevanu345@gmail.com, GitHub/LinkedIn: jeevanu345.
 
 Act as Jeevan's representative. Use this info to answer queries accurately. If asked a generic question, just answer it normally.`;
 

@@ -69,7 +69,7 @@ export class Gedit extends Component {
         return (
             <div className="w-full h-full relative flex flex-col bg-ub-cool-grey text-white select-none">
                 <div className="flex items-center justify-between w-full bg-ub-gedit-light bg-opacity-60 border-b border-t border-blue-400 text-sm">
-                    <span className="font-bold ml-2">Send a Message to Me (jeevanu345@gmail.com / +91 6362724307)</span>
+                    <span className="font-bold ml-2">Send a Message to Me (jeevanu345@gmail.com)</span>
                     <div className="flex">
                         <div onClick={this.sendMessage} className="border border-black bg-black bg-opacity-50 px-3 py-0.5 my-1 mx-1 rounded hover:bg-opacity-80">Send</div>
                     </div>

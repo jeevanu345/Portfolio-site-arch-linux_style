@@ -125,7 +125,7 @@ function About() {
                 <div className="bg-white absolute rounded-full p-0.5 md:p-1 top-0 transform -translate-y-1/2 right-0"></div>
             </div>
             <ul className=" mt-4 leading-tight tracking-tight text-sm md:text-base w-5/6 md:w-3/4 emoji-list">
-                <li className=" list-pc">I'm a <span className=" font-medium">Software Development Engineer Intern</span> at <u className=' cursor-pointer '> <a href="https://www.brillio.com/" target={"_blank"} rel="noreferrer">Brillio</a> </u>, working on AI platforms. Hit me up at <a className='text-underline' href='mailto:jeevanu345@gmail.com'><u>jeevanu345@gmail.com</u></a> or <a className='text-underline' href='tel:+916362724307'><u>+91 6362724307</u></a>!</li>
+                <li className=" list-pc">I'm a <span className=" font-medium">Software Development Engineer Intern</span> at <u className=' cursor-pointer '> <a href="https://www.brillio.com/" target={"_blank"} rel="noreferrer">Brillio</a> </u>, working on AI platforms. Hit me up at <a className='text-underline' href='mailto:jeevanu345@gmail.com'><u>jeevanu345@gmail.com</u></a>!</li>
                 <li className=" mt-3 list-building"> Responsible, organized, and hardworking individual passionate about technology, innovation, and problem-solving.</li>
                 <li className=" mt-3 list-time"> My Soft Skills include Communication, Critical Thinking, and Analytical Problem Solving.</li>
                 <li className=" mt-3 list-star"> Languages: English (Fluent), Hindi (Fluent), Kannada (Native).</li>
