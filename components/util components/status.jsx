@@ -8,7 +8,7 @@ export default function Status() {
         <img
           width="16px" height="16px"
           src="/themes/Yaru/status/network-wireless-signal-good-symbolic.svg"
-          alt="ubuntu wifi"
+          alt="Arch Linux wifi"
           className="inline status-symbol w-4 h-4"
         />
       </span>
@@ -16,7 +16,7 @@ export default function Status() {
         <img
           width="16px" height="16px"
           src="/themes/Yaru/status/audio-volume-medium-symbolic.svg"
-          alt="ubuntu sound"
+          alt="Arch Linux sound"
           className="inline status-symbol w-4 h-4"
         />
       </span>
@@ -24,7 +24,7 @@ export default function Status() {
         <img
           width="16px" height="16px"
           src="/themes/Yaru/status/battery-good-symbolic.svg"
-          alt="ubuntu battry"
+          alt="Arch Linux battry"
           className="inline status-symbol w-4 h-4"
         />
       </span>

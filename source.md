@@ -1383,13 +1383,13 @@ docker run -p 8501:8501 ncert-rag-bot
 **1. Launch EC2 Instance:**
 
 - Instance type: t3.medium (2 vCPU, 4GB RAM)
-- AMI: Ubuntu 22.04 LTS
+- AMI: Arch Linux 22.04 LTS
 - Storage: 20GB EBS
 
 **2. SSH and setup:**
 
 ```shell
-ssh -i your-key.pem ubuntu@ec2-instance-ip
+ssh -i your-key.pem archlinux@ec2-instance-ip
 
 # Install dependencies
 sudo apt update
@@ -1417,8 +1417,8 @@ Description=NCERT RAG Bot
 After=network.target
 
 [Service]
-User=ubuntu
-WorkingDirectory=/home/ubuntu/ncert-rag-bot
+User=archlinux
+WorkingDirectory=/home/archlinux/ncert-rag-bot
 ExecStart=/usr/local/bin/streamlit run streamlit_app.py --server.port=8501
 Restart=always
 
@@ -3001,7 +3001,7 @@ openpyxl>=3.0
 git clone <repository-url>
 cd covid-analysis-pipeline
 
-# Install system dependencies (Ubuntu/Debian)
+# Install system dependencies (Arch Linux/Debian)
 sudo apt-get update
 sudo apt-get install muscle
 
