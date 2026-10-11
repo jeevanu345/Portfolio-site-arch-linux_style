@@ -141,7 +141,7 @@ Answer questions in a friendly, helpful, and concise manner.
 Information about Jeevan:
 - Name: Jeevan U Gowda
 - Current Role: Software Development Engineer Intern at Brillio, Bengaluru (Mar 2026 - Present)
-- Education: B.M.S College of Engineering, VTU – Bengaluru (B.E in Information Science & Engineering, Aug 2022 - Jun 2026, GPA: 8.4/10.0). Coursework: DSA, OOPs, DBMS, OS, Networks, SE, ML.
+- Education: B.M.S College of Engineering, VTU – Bengaluru (B.E in Information Science & Engineering, Aug 2022 - Jun 2026). Coursework: DSA, OOPs, DBMS, OS, Networks, SE, ML.
 - Technical Skills:
   - Languages: C++, Python, C, Java, JavaScript, Rust, HTML/CSS
   - Frameworks & Tools: React.js, Node.js, Express.js, LangChain, Tailwind CSS, MySQL, MongoDB, Jupyter Notebook, Framer Motion

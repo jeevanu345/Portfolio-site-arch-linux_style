@@ -150,19 +150,16 @@ function Education() {
                     </div>
                     <div className=" text-sm text-gray-400 mt-0.5">Aug 2022 - Jun 2026</div>
                     <div className=" text-sm md:text-base">Bachelor of Engineering in Information Science & Engineering</div>
-                    <div className="text-sm text-gray-300 font-bold mt-1">Cumulative GPA: 8.4/10.0</div>
                 </li>
                 <li className="list-disc mt-5">
                     <div className=" text-lg md:text-xl text-left font-bold leading-tight">
                         12th Grade (Karnataka State Board)
                     </div>
-                    <div className="text-sm text-gray-300 font-bold mt-1">Score: 90%</div>
                 </li>
                 <li className="list-disc mt-5">
                     <div className=" text-lg md:text-xl text-left font-bold leading-tight">
                         10th Grade (CBSE Board)
                     </div>
-                    <div className="text-sm text-gray-300 font-bold mt-1">Score: 90%</div>
                 </li>
             </ul>
         </>
@@ -360,7 +357,5 @@ function Projects() {
     )
 }
 function Resume() {
-    return (
-        <iframe className="h-full w-full" src="/files/jeevan-u-gowda.pdf" title="Jeevan.U.Gowda resume" frameBorder="0"></iframe>
-    )
+    return null;
 }
