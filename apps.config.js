@@ -30,7 +30,7 @@ const apps = [
     },
     {
         id: "about-jeevan",
-        title: "About Jeevan.U.Gowda",
+        title: "About Jeevan U",
         icon: '/themes/Yaru/system/user-home.png',
         disabled: false,
         favourite: true,
