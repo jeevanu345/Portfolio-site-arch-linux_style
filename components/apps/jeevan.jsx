@@ -266,9 +266,9 @@ function Projects() {
             domains: ["react.js", "typescript", "tailwindcss"]
         },
         {
-            name: "TapCart: NFC-Based Smart Retail System",
+            name: "Taplane: NFC-Based Smart Retail System",
             date: "2023",
-            link: "https://github.com/jeevanu345/TapCart",
+            link: "https://github.com/jeevanu345/Taplane",
             description: [
                 "Designed an IoT-integrated retail platform enabling 'tap-to-shop' purchases and real-time inventory sync across devices.",
                 "Research Paper: Proposed secure NFC-based merchant payment architecture for contactless transactions without extra hardware."
