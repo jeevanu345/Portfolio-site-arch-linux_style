@@ -152,9 +152,9 @@ Information about Jeevan:
   2. Code-Repair Agent with Execution-Grounded RL on SWE-Bench (Python, TRL, vLLM, Docker, Ray, PostgreSQL, Redis)
   3. NCERT RAG Bot: AI-Powered NCERT Tutor (Python, Streamlit, Ollama, Chroma, LangChain, FAISS)
   4. Instant Canteen: Smart Campus Food Ordering & Payment System (React, TypeScript, Tailwind, Vite, Supabase)
-  5. Taplane: NFC-Based Smart Retail System (React Native, Node.js, IoT)
+  5. Aislewing: NFC-Based Smart Retail System (React Native, Node.js, IoT)
   6. COVID-19 Genome Mutation Visualization Tool (Python, Biopython, ChimeraX, Matplotlib)
-- Research Papers: Taplane: NFC-Based Payment Interface (Apr 2025)
+- Research Papers: Aislewing: NFC-Based Payment Interface (Apr 2025)
 - Soft Skills: Communication, Critical Thinking, Analytical Problem Solving. Fluent in English, Hindi, and Native in Kannada.
 - Extracurriculars: Vocalist, Guitarist, Football
 - Contact: Email jeevanu345@gmail.com, GitHub/LinkedIn: jeevanu345.
