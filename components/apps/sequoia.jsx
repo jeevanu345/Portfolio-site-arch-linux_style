@@ -135,7 +135,7 @@ export function SequoiaAI() {
     }
   }, [history]);
 
-  const systemPrompt = `You are SEQUOIA AI, a personal assistant integrated into Jeevan U's portfolio website. You are highly knowledgeable about Jeevan's background, skills, and projects. 
+  const systemPrompt = `You are SEQUOIA AI, a personal assistant integrated into Jeevan U's portfolio website. You are highly knowledgeable about Jeevan's background, skills, and projects.
 Answer questions in a friendly, helpful, and concise manner.
 
 Information about Jeevan:
